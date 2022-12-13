@@ -1,1 +1,16 @@
-/* Write your CSS here! */
+p {
+    padding-left: 500px;
+}
+header.NewClass {
+    color:blueviolet
+}
+body{
+    margin: 8px;
+    display:block;
+}
+#mainHeading{
+    color:red;
+}
+p.funParagraph{
+    color:green
+}
